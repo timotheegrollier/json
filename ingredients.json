@@ -1,0 +1,8 @@
+{
+    "nom": "Nom Ingrédient",
+    "produit": "produit",
+    "options": [
+        "idOption1",
+        "idOption2"
+    ]
+}
